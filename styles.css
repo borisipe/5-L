@@ -8,7 +8,7 @@ body {
   
   .navbar {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     padding: 1em;
     background-color: rgba(216,135,164,255);
@@ -62,4 +62,5 @@ body {
     padding: 1em;
     background-color: rgba(244,203,88,255);
   }
+  
   
